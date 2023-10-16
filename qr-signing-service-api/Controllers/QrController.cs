@@ -1,9 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using qr_signing_service_api.Models;
 using qr_signing_service_api.Services;
-using QRCoder;
-using System.Drawing;
-using System.Drawing.Imaging;
 
 using static System.Net.Mime.MediaTypeNames;
 
